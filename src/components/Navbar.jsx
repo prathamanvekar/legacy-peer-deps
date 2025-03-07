@@ -22,7 +22,7 @@ export default function Navbar() {
           showNavbar ? "visible opacity-100" : "invisible opacity-0.5"
         }`}
       >
-        <img src="..\public\logoimg.jpeg" alt="CRESA Logo" className="h-12" />
+        <img src="../../public/logoimg.jpeg" alt="CRESA Logo" className="h-12" />
         <ul className="flex space-x-6 text-lg">
           <li>
             <Link to="/" className="hover:text-orange-400 cursor-pointer">Home</Link>
