@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="w-1/2 flex justify-center">
           <img
             src="logoimg.jpeg"
-            alt="IEEE Logo"
+            alt="Logo"
             className="w-24 h-24 object-contain"
           />
         </div>
