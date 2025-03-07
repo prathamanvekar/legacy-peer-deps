@@ -105,7 +105,7 @@ export default function HomePage() {
 
         {/* See More Button */}
         <button
-          onClick={() => navigate("/event")}
+          onClick={() => navigate("/events")}
           className="mt-6 px-6 py-3 bg-orange-500 text-white text-lg font-bold rounded-lg hover:bg-orange-600 transition-all"
         >
           See More

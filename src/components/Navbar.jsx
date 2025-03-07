@@ -29,7 +29,7 @@ export default function Navbar() {
             <Link to="/" className="hover:text-orange-400 cursor-pointer">Home</Link>
           </li>
           <li>
-            <Link to="/event" className="hover:text-orange-400 cursor-pointer">Events</Link>
+            <Link to="/events" className="hover:text-orange-400 cursor-pointer">Events</Link>
           </li>
           
           <li>
